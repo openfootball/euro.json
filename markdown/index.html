@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <title>Test Polymer x-markdown</title>
+
+    <!-- add web components polyfills/shims for "old" browsers -->
+    <script src="../bower_components/platform/platform.js"></script>
+
+    <link rel="import" href="x-markdown.html">
+  </head>
+  <body>
+
+    <p>Hello World!</p>
+
+    <!-- test new custom element -->
+    <x-markdown>
+       ## Heading Two
+       
+       ### Heading Three
+       
+       Whatever.
+       
+       [This is a link](http://www.polymer-project.org).
+    </x-markdown>
+
+    <p>Another paragraph.</p>  
+   
+    <x-markdown>
+      Markdown is a text-to-HTML conversion tool for web writers.
+      Markdown allows you to write using an
+      easy-to-read,
+      easy-to-write plain text format,
+      then convert it to structurally valid HTML.
+
+      Text attributes *italic*,
+      **bold**, `monospace`.
+
+      Shopping list:
+
+      * apples
+      * oranges
+      * pears
+
+      Numbered list:
+
+      1. apples
+      2. oranges
+      3. pears
+    </x-markdown>
+
+  </body>
+</html>

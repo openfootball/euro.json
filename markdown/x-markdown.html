@@ -1,0 +1,23 @@
+
+<script src="../js/marked.js"></script>
+
+<script src="../bower_components/polymer/polymer.js"></script>
+
+<polymer-element name="x-markdown">
+ <template>
+    <div id="markdown"></div>
+ </template>
+ <script>
+    Polymer( "x-markdown", {
+      ready: function() {
+        // console.log( "textContent: " + this.textContent );
+        // console.log( "textContent (trimmed): " + this.trim( this.textContent ));
+        var content = this.trim( this.textContent );
+        this.$.markdown.innerHTML = marked( content );
+        },
+      trim: function( text ) {
+        return text.replace( /^[\t ]+/gm, '');
+      }
+    });
+ </script>
+</polymer-element>

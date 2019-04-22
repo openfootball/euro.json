@@ -8,7 +8,7 @@ Hoe.spec 'typesig' do
   self.summary = "typesig - type signatures - annotate your code with type signatures"
   self.description = summary
 
-  self.urls    = ['https://github.com/s6ruby/typesig']
+  self.urls    = ['https://github.com/typesigs/typesig']
 
   self.author  = 'Gerald Bauer'
   self.email   = 'wwwmake@googlegroups.com'

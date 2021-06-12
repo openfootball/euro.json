@@ -2,7 +2,6 @@
 
 Free open public domain football data in the JSON (JavaScript Object Notation)
 data interchange format.
-
 Tournaments include:
 
 - European Football Championship ("Euro") 2020 (in 2021)

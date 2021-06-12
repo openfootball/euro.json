@@ -1,7 +1,0 @@
-CHANGELOG.md
-LICENSE.md
-Manifest.txt
-README.md
-Rakefile
-lib/typesig.rb
-lib/typesig/version.rb

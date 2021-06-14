@@ -50,11 +50,10 @@ Example - Euro 2020 Match Schedule (Fixtures and Results) - [`2020/euro.json`](h
 
 ## Updates / Contributions Welcome - Please Update the Football.TXT Sources
 
-Note: The Football.JSON files get (auto-)generated using the datasets in the Football.TXT format, thus, **please do NOT
+Note: The JSON files get (auto-)generated using the datasets in the Football.TXT format, thus, **please do NOT
 edit the (auto-)generated JSON files but the Football.TXT sources in the tournament repos** e.g.:
 
 - European Football Championship ("Euro") in [**`/euro`**](https://github.com/openfootball/euro)
-- and so on
 
 and than (auto-)generate the euro.json updates. If you only edit / patch the (auto-)generated JSON files without updating
 the sources than your changes will get lost / overwritten with the next update.
@@ -70,7 +69,7 @@ For starting your own repo from scratch see the [League Quick Starter Kit](https
 
 ## More - Add Your Scripts Here
 
-
+Your Script Here
 
 
 

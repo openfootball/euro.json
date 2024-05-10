@@ -1,0 +1,131 @@
+{
+  "name": "Euro 2024",
+  "groups": [
+    {
+      "name": "Group A",
+      "teams": [
+        {
+          "name": "Hungary",
+          "code": "HUN"
+        },
+        {
+          "name": "Switzerland",
+          "code": "SUI"
+        },
+        {
+          "name": "Germany",
+          "code": "GER"
+        },
+        {
+          "name": "Scotland",
+          "code": "SCO"
+        }
+      ]
+    },
+    {
+      "name": "Group B",
+      "teams": [
+        {
+          "name": "Spain",
+          "code": "ESP"
+        },
+        {
+          "name": "Italy",
+          "code": "ITA"
+        },
+        {
+          "name": "Croatia",
+          "code": "CRO"
+        },
+        {
+          "name": "Albania",
+          "code": "ALB"
+        }
+      ]
+    },
+    {
+      "name": "Group C",
+      "teams": [
+        {
+          "name": "Denmark",
+          "code": "DEN"
+        },
+        {
+          "name": "England",
+          "code": "ENG"
+        },
+        {
+          "name": "Slovenia",
+          "code": "SVN"
+        },
+        {
+          "name": "Serbia",
+          "code": "SRB"
+        }
+      ]
+    },
+    {
+      "name": "Group D",
+      "teams": [
+        {
+          "name": "France",
+          "code": "FRA"
+        },
+        {
+          "name": "Austria",
+          "code": "AUT"
+        },
+        {
+          "name": "Poland",
+          "code": "POL"
+        },
+        {
+          "name": "Netherlands",
+          "code": "NED"
+        }
+      ]
+    },
+    {
+      "name": "Group E",
+      "teams": [
+        {
+          "name": "Romania",
+          "code": "ROU"
+        },
+        {
+          "name": "Ukraine",
+          "code": "UKR"
+        },
+        {
+          "name": "Slovakia",
+          "code": "SVK"
+        },
+        {
+          "name": "Belgium",
+          "code": "BEL"
+        }
+      ]
+    },
+    {
+      "name": "Group F",
+      "teams": [
+        {
+          "name": "Czech Republic",
+          "code": "CZE"
+        },
+        {
+          "name": "Portugal",
+          "code": "POR"
+        },
+        {
+          "name": "Turkey",
+          "code": "TUR"
+        },
+        {
+          "name": "Georgia",
+          "code": "GEO"
+        }
+      ]
+    }
+  ]
+}

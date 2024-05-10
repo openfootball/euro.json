@@ -5,46 +5,45 @@ data interchange format.
 Tournaments include:
 
 - European Football Championship ("Euro") 2020 (in 2021)
+- European Football Championship ("Euro") 2024 
 
-
-Example - Euro 2020 Match Schedule (Fixtures and Results) - [`2020/euro.json`](https://raw.githubusercontent.com/openfootball/euro.json/master/2020/euro.json):
+Example - Euro 2024 Match Schedule (Fixtures and Results) - [`2024/euro.json`](https://raw.githubusercontent.com/openfootball/euro.json/master/2024/euro.json):
 
 ``` json
 {
-  "name": "Euro 2020",
+  "name": "Euro 2024",
   "rounds": [
     {
       "name": "Matchday 1",
       "matches": [
         {
           "num": 1,
-          "date": "2021-06-11",
-          "team1": { "name": "Turkey", "code": "TUR" },
-          "team2": { "name": "Italy",  "code": "ITA" },
-          "score1": 0,
-          "score2": 3,
-          "score1i": 0,
-          "score2i": 0,
+          "date": "2024-06-14",
+          "team1": { "name": "Germany", "code": "GER" },
+          "team2": { "name": "Scotland","code": "SCO" },
+          "score1": null,
+          "score2": null,
+          "score1i": null,
+          "score2i": null,
           "group": "Group A"
         },
         {
           "num": 2,
-          "date": "2021-06-12",
-          "team1": { "name": "Wales", "code": "WAL" },
+          "date": "2024-06-15",
+          "team1": { "name": "Hungary", "code": "HUN" },
           "team2": { "name": "Switzerland", "code": "SUI" },
-          "score1": 1,
-          "score2": 1,
-          "score1i": 0,
-          "score2i": 0,
+          "score1": null,
+          "score2": null,
+          "score1i": null,
+          "score2i": null,
           "group": "Group A"
         },
-...
+       ...
       ],
     },
   ],  
 }     
 ```
-
 
 
 
@@ -75,14 +74,14 @@ Your Script Here
 
 ## License
 
-![](https://publicdomainworks.github.io/buttons/zero88x31.png)
-
 The euro.json schema, data and scripts are dedicated to the public domain. Use it as you please with no restrictions whatsoever.
+
+
 
 
 ## Questions? Comments?
 
-Send them along to the
-[Open Sports & Friends Forum/Mailing List](http://groups.google.com/group/opensport).
-Thanks!
+Yes, you can. More than welcome.
+See [Help & Support »](https://github.com/openfootball/help)
+
 

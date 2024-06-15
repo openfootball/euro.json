@@ -53,17 +53,13 @@ Example - Euro 2024 Match Schedule (Fixtures and Results) - [`2024/euro.json`](h
 ## Updates / Contributions Welcome - Please Update the Football.TXT Sources
 
 Note: The JSON files get (auto-)generated using the datasets in the Football.TXT format, thus, **please do NOT
-edit the (auto-)generated JSON files but the Football.TXT sources in the tournament repos** e.g.:
+edit the (auto-)generated JSON files but the Football.TXT sources (upstream) in the tournament repos** e.g.:
 
 - European Football Championship ("Euro") in [**`/euro`**](https://github.com/openfootball/euro)
 
-and than (auto-)generate the euro.json updates. If you only edit / patch the (auto-)generated JSON files without updating
-the sources than your changes will get lost / overwritten with the next update.
-
-
 Note: For the Euro 2024 please update the source text file
-[`/euro/2024--germany/euro.txt`](https://github.com/openfootball/euro/blob/master/2024--germany/euro.txt) for the group stage 
-and for the knockout (quarter-finals, semi-finals, etc.) stage.
+[`/euro/2024--germany/euro.txt`](https://github.com/openfootball/euro/blob/master/2024--germany/euro.txt) 
+for the group and knockout (quarter-finals, semi-finals, etc.) stage.
 
 
 ## Add Your Leagues and Tournaments!

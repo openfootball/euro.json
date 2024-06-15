@@ -16,6 +16,48 @@
             "name": "Scotland",
             "code": "SCO"
           },
+          "score": {
+            "ft": [
+              5,
+              1
+            ],
+            "ht": [
+              3,
+              0
+            ]
+          },
+          "goals1": [
+            {
+              "name": "Wirtz",
+              "minute": 10
+            },
+            {
+              "name": "Musiala",
+              "minute": 19
+            },
+            {
+              "name": "Havertz",
+              "minute": 45,
+              "offset": 1,
+              "penalty": true
+            },
+            {
+              "name": "Füllkrug",
+              "minute": 68
+            },
+            {
+              "name": "Can",
+              "minute": 90,
+              "offset": 3
+            }
+          ],
+          "goals2": [
+            {
+              "name": "Rüdiger",
+              "minute": 87,
+              "owngoal": true
+            }
+          ],
           "group": "Group A"
         },
         {
@@ -29,6 +71,8 @@
           "team2": {
             "name": "Switzerland",
             "code": "SUI"
+          },
+          "score": {
           },
           "group": "Group A"
         },
@@ -44,6 +88,8 @@
             "name": "Croatia",
             "code": "CRO"
           },
+          "score": {
+          },
           "group": "Group B"
         },
         {
@@ -57,6 +103,8 @@
           "team2": {
             "name": "Albania",
             "code": "ALB"
+          },
+          "score": {
           },
           "group": "Group B"
         },
@@ -72,6 +120,8 @@
             "name": "Denmark",
             "code": "DEN"
           },
+          "score": {
+          },
           "group": "Group C"
         },
         {
@@ -85,6 +135,8 @@
           "team2": {
             "name": "England",
             "code": "ENG"
+          },
+          "score": {
           },
           "group": "Group C"
         },
@@ -100,6 +152,8 @@
             "name": "Netherlands",
             "code": "NED"
           },
+          "score": {
+          },
           "group": "Group D"
         },
         {
@@ -113,6 +167,8 @@
           "team2": {
             "name": "France",
             "code": "FRA"
+          },
+          "score": {
           },
           "group": "Group D"
         },
@@ -128,6 +184,8 @@
             "name": "Ukraine",
             "code": "UKR"
           },
+          "score": {
+          },
           "group": "Group E"
         },
         {
@@ -141,6 +199,8 @@
           "team2": {
             "name": "Slovakia",
             "code": "SVK"
+          },
+          "score": {
           },
           "group": "Group E"
         },
@@ -156,6 +216,8 @@
             "name": "Georgia",
             "code": "GEO"
           },
+          "score": {
+          },
           "group": "Group F"
         },
         {
@@ -169,6 +231,8 @@
           "team2": {
             "name": "Czech Republic",
             "code": "CZE"
+          },
+          "score": {
           },
           "group": "Group F"
         }
@@ -189,6 +253,8 @@
             "name": "Hungary",
             "code": "HUN"
           },
+          "score": {
+          },
           "group": "Group A"
         },
         {
@@ -202,6 +268,8 @@
           "team2": {
             "name": "Switzerland",
             "code": "SUI"
+          },
+          "score": {
           },
           "group": "Group A"
         },
@@ -217,6 +285,8 @@
             "name": "Albania",
             "code": "ALB"
           },
+          "score": {
+          },
           "group": "Group B"
         },
         {
@@ -230,6 +300,8 @@
           "team2": {
             "name": "Italy",
             "code": "ITA"
+          },
+          "score": {
           },
           "group": "Group B"
         },
@@ -245,6 +317,8 @@
             "name": "Serbia",
             "code": "SRB"
           },
+          "score": {
+          },
           "group": "Group C"
         },
         {
@@ -258,6 +332,8 @@
           "team2": {
             "name": "England",
             "code": "ENG"
+          },
+          "score": {
           },
           "group": "Group C"
         },
@@ -273,6 +349,8 @@
             "name": "Austria",
             "code": "AUT"
           },
+          "score": {
+          },
           "group": "Group D"
         },
         {
@@ -286,6 +364,8 @@
           "team2": {
             "name": "France",
             "code": "FRA"
+          },
+          "score": {
           },
           "group": "Group D"
         },
@@ -301,6 +381,8 @@
             "name": "Ukraine",
             "code": "UKR"
           },
+          "score": {
+          },
           "group": "Group E"
         },
         {
@@ -314,6 +396,8 @@
           "team2": {
             "name": "Romania",
             "code": "ROU"
+          },
+          "score": {
           },
           "group": "Group E"
         },
@@ -329,6 +413,8 @@
             "name": "Czech Republic",
             "code": "CZE"
           },
+          "score": {
+          },
           "group": "Group F"
         },
         {
@@ -342,6 +428,8 @@
           "team2": {
             "name": "Portugal",
             "code": "POR"
+          },
+          "score": {
           },
           "group": "Group F"
         }
@@ -362,6 +450,8 @@
             "name": "Germany",
             "code": "GER"
           },
+          "score": {
+          },
           "group": "Group A"
         },
         {
@@ -375,6 +465,8 @@
           "team2": {
             "name": "Hungary",
             "code": "HUN"
+          },
+          "score": {
           },
           "group": "Group A"
         },
@@ -390,6 +482,8 @@
             "name": "Spain",
             "code": "ESP"
           },
+          "score": {
+          },
           "group": "Group B"
         },
         {
@@ -403,6 +497,8 @@
           "team2": {
             "name": "Italy",
             "code": "ITA"
+          },
+          "score": {
           },
           "group": "Group B"
         },
@@ -418,6 +514,8 @@
             "name": "Slovenia",
             "code": "SVN"
           },
+          "score": {
+          },
           "group": "Group C"
         },
         {
@@ -431,6 +529,8 @@
           "team2": {
             "name": "Serbia",
             "code": "SRB"
+          },
+          "score": {
           },
           "group": "Group C"
         },
@@ -446,6 +546,8 @@
             "name": "Austria",
             "code": "AUT"
           },
+          "score": {
+          },
           "group": "Group D"
         },
         {
@@ -459,6 +561,8 @@
           "team2": {
             "name": "Poland",
             "code": "POL"
+          },
+          "score": {
           },
           "group": "Group D"
         },
@@ -474,6 +578,8 @@
             "name": "Romania",
             "code": "ROU"
           },
+          "score": {
+          },
           "group": "Group E"
         },
         {
@@ -487,6 +593,8 @@
           "team2": {
             "name": "Belgium",
             "code": "BEL"
+          },
+          "score": {
           },
           "group": "Group E"
         },
@@ -502,6 +610,8 @@
             "name": "Portugal",
             "code": "POR"
           },
+          "score": {
+          },
           "group": "Group F"
         },
         {
@@ -515,6 +625,8 @@
           "team2": {
             "name": "Turkey",
             "code": "TUR"
+          },
+          "score": {
           },
           "group": "Group F"
         }

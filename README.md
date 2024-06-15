@@ -19,23 +19,26 @@ Example - Euro 2024 Match Schedule (Fixtures and Results) - [`2024/euro.json`](h
         {
           "num": 1,
           "date": "2024-06-14",
+          "time": "21:00",
           "team1": { "name": "Germany", "code": "GER" },
           "team2": { "name": "Scotland","code": "SCO" },
-          "score1": null,
-          "score2": null,
-          "score1i": null,
-          "score2i": null,
+          "score": { "ft": [5,1],
+                     "ht": [3,0] },
+          "goals1": [{ "name": "Wirtz",    "minute": 10 },
+                     { "name": "Musiala",  "minute": 19 },
+                     { "name": "Havertz",  "minute": 45, "offset": 1, "penalty": true },
+                     { "name": "Füllkrug", "minute": 68 },
+                     { "name": "Can",      "minute": 90, "offset": 3 }],
+          "goals2": [{ "name": "Rüdiger",  "minute": 87, "owngoal": true }],
           "group": "Group A"
         },
         {
           "num": 2,
           "date": "2024-06-15",
+          "time": "15:00",
           "team1": { "name": "Hungary", "code": "HUN" },
           "team2": { "name": "Switzerland", "code": "SUI" },
-          "score1": null,
-          "score2": null,
-          "score1i": null,
-          "score2i": null,
+          "score": {},
           "group": "Group A"
         },
        ...
@@ -58,6 +61,9 @@ and than (auto-)generate the euro.json updates. If you only edit / patch the (au
 the sources than your changes will get lost / overwritten with the next update.
 
 
+Note: For the Euro 2024 please update the source text file
+[`/euro/2024--germany/euro.txt`](https://github.com/openfootball/euro/blob/master/2024--germany/euro.txt) for the group stage 
+and for the knockout (quarter-finals, semi-finals, etc.) stage.
 
 
 ## Add Your Leagues and Tournaments!

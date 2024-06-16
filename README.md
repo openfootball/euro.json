@@ -38,7 +38,12 @@ Example - Euro 2024 Match Schedule (Fixtures and Results) - [`2024/euro.json`](h
           "time": "15:00",
           "team1": { "name": "Hungary", "code": "HUN" },
           "team2": { "name": "Switzerland", "code": "SUI" },
-          "score": {},
+          "score": { "ft": [1,3],
+                     "ht": [0,2] },
+          "goals1": [{ "name": "Varga",     "minute": 66 }],
+          "goals2": [{ "name": "Duah",      "minute": 12 },
+                     { "name": "Aebischer", "minute": 45 },
+                     { "name": "Embolo",    "minute": 90, "offset": 3 }],
           "group": "Group A"
         },
        ...

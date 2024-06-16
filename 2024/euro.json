@@ -73,7 +73,36 @@
             "code": "SUI"
           },
           "score": {
+            "ft": [
+              1,
+              3
+            ],
+            "ht": [
+              0,
+              2
+            ]
           },
+          "goals1": [
+            {
+              "name": "Varga",
+              "minute": 66
+            }
+          ],
+          "goals2": [
+            {
+              "name": "Duah",
+              "minute": 12
+            },
+            {
+              "name": "Aebischer",
+              "minute": 45
+            },
+            {
+              "name": "Embolo",
+              "minute": 90,
+              "offset": 3
+            }
+          ],
           "group": "Group A"
         },
         {
@@ -89,7 +118,33 @@
             "code": "CRO"
           },
           "score": {
+            "ft": [
+              3,
+              0
+            ],
+            "ht": [
+              3,
+              0
+            ]
           },
+          "goals1": [
+            {
+              "name": "Morata",
+              "minute": 29
+            },
+            {
+              "name": "Fabián",
+              "minute": 32
+            },
+            {
+              "name": "Carvajal",
+              "minute": 45,
+              "offset": 2
+            }
+          ],
+          "goals2": [
+
+          ],
           "group": "Group B"
         },
         {
@@ -105,7 +160,31 @@
             "code": "ALB"
           },
           "score": {
+            "ft": [
+              2,
+              1
+            ],
+            "ht": [
+              2,
+              1
+            ]
           },
+          "goals1": [
+            {
+              "name": "Bastoni",
+              "minute": 11
+            },
+            {
+              "name": "Barella",
+              "minute": 16
+            }
+          ],
+          "goals2": [
+            {
+              "name": "Bajrami",
+              "minute": 1
+            }
+          ],
           "group": "Group B"
         },
         {

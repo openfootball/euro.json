@@ -200,7 +200,27 @@
             "code": "DEN"
           },
           "score": {
+            "ft": [
+              1,
+              1
+            ],
+            "ht": [
+              0,
+              1
+            ]
           },
+          "goals1": [
+            {
+              "name": "Janža",
+              "minute": 77
+            }
+          ],
+          "goals2": [
+            {
+              "name": "Eriksen",
+              "minute": 17
+            }
+          ],
           "group": "Group C"
         },
         {
@@ -216,7 +236,24 @@
             "code": "ENG"
           },
           "score": {
+            "ft": [
+              0,
+              1
+            ],
+            "ht": [
+              0,
+              1
+            ]
           },
+          "goals1": [
+
+          ],
+          "goals2": [
+            {
+              "name": "Bellingham",
+              "minute": 13
+            }
+          ],
           "group": "Group C"
         },
         {
@@ -232,7 +269,31 @@
             "code": "NED"
           },
           "score": {
+            "ft": [
+              1,
+              2
+            ],
+            "ht": [
+              1,
+              1
+            ]
           },
+          "goals1": [
+            {
+              "name": "Buksa",
+              "minute": 16
+            }
+          ],
+          "goals2": [
+            {
+              "name": "Gakpo",
+              "minute": 29
+            },
+            {
+              "name": "Weghorst",
+              "minute": 83
+            }
+          ],
           "group": "Group D"
         },
         {

@@ -309,7 +309,25 @@
             "code": "FRA"
           },
           "score": {
+            "ft": [
+              0,
+              1
+            ],
+            "ht": [
+              0,
+              1
+            ]
           },
+          "goals1": [
+
+          ],
+          "goals2": [
+            {
+              "name": "Wöber",
+              "minute": 38,
+              "owngoal": true
+            }
+          ],
           "group": "Group D"
         },
         {
@@ -325,7 +343,32 @@
             "code": "UKR"
           },
           "score": {
+            "ft": [
+              3,
+              0
+            ],
+            "ht": [
+              1,
+              0
+            ]
           },
+          "goals1": [
+            {
+              "name": "Stanciu",
+              "minute": 29
+            },
+            {
+              "name": "R. Marin",
+              "minute": 53
+            },
+            {
+              "name": "Drăguș",
+              "minute": 57
+            }
+          ],
+          "goals2": [
+
+          ],
           "group": "Group E"
         },
         {
@@ -341,7 +384,24 @@
             "code": "SVK"
           },
           "score": {
+            "ft": [
+              0,
+              1
+            ],
+            "ht": [
+              0,
+              1
+            ]
           },
+          "goals1": [
+
+          ],
+          "goals2": [
+            {
+              "name": "Schranz",
+              "minute": 7
+            }
+          ],
           "group": "Group E"
         },
         {

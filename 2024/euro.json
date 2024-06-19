@@ -417,7 +417,36 @@
             "code": "GEO"
           },
           "score": {
+            "ft": [
+              3,
+              1
+            ],
+            "ht": [
+              1,
+              1
+            ]
           },
+          "goals1": [
+            {
+              "name": "Müldür",
+              "minute": 25
+            },
+            {
+              "name": "Güler",
+              "minute": 65
+            },
+            {
+              "name": "Aktürkoğlu",
+              "minute": 90,
+              "offset": 7
+            }
+          ],
+          "goals2": [
+            {
+              "name": "Mikautadze",
+              "minute": 32
+            }
+          ],
           "group": "Group F"
         },
         {
@@ -433,7 +462,33 @@
             "code": "CZE"
           },
           "score": {
+            "ft": [
+              2,
+              1
+            ],
+            "ht": [
+              0,
+              0
+            ]
           },
+          "goals1": [
+            {
+              "name": "Hranáč",
+              "minute": 69,
+              "owngoal": true
+            },
+            {
+              "name": "Conceição",
+              "minute": 90,
+              "offset": 2
+            }
+          ],
+          "goals2": [
+            {
+              "name": "Provod",
+              "minute": 62
+            }
+          ],
           "group": "Group F"
         }
       ]

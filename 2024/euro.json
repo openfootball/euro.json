@@ -509,7 +509,28 @@
             "code": "HUN"
           },
           "score": {
+            "ft": [
+              2,
+              0
+            ],
+            "ht": [
+              1,
+              0
+            ]
           },
+          "goals1": [
+            {
+              "name": "Musiala",
+              "minute": 22
+            },
+            {
+              "name": "Gündoğan",
+              "minute": 67
+            }
+          ],
+          "goals2": [
+
+          ],
           "group": "Group A"
         },
         {
@@ -525,7 +546,27 @@
             "code": "SUI"
           },
           "score": {
+            "ft": [
+              1,
+              1
+            ],
+            "ht": [
+              1,
+              1
+            ]
           },
+          "goals1": [
+            {
+              "name": "McTominay",
+              "minute": 13
+            }
+          ],
+          "goals2": [
+            {
+              "name": "Shaqiri",
+              "minute": 26
+            }
+          ],
           "group": "Group A"
         },
         {
@@ -541,7 +582,37 @@
             "code": "ALB"
           },
           "score": {
+            "ft": [
+              2,
+              2
+            ],
+            "ht": [
+              0,
+              1
+            ]
           },
+          "goals1": [
+            {
+              "name": "Kramarić",
+              "minute": 74
+            },
+            {
+              "name": "Gjasula",
+              "minute": 76,
+              "owngoal": true
+            }
+          ],
+          "goals2": [
+            {
+              "name": "Laçi",
+              "minute": 11
+            },
+            {
+              "name": "Gjasula",
+              "minute": 90,
+              "offset": 5
+            }
+          ],
           "group": "Group B"
         },
         {

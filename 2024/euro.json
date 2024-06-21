@@ -628,7 +628,25 @@
             "code": "ITA"
           },
           "score": {
+            "ft": [
+              1,
+              0
+            ],
+            "ht": [
+              0,
+              0
+            ]
           },
+          "goals1": [
+
+          ],
+          "goals2": [
+            {
+              "name": "Calafiori",
+              "minute": 55,
+              "owngoal": true
+            }
+          ],
           "group": "Group B"
         },
         {
@@ -644,7 +662,28 @@
             "code": "SRB"
           },
           "score": {
+            "ft": [
+              1,
+              1
+            ],
+            "ht": [
+              0,
+              0
+            ]
           },
+          "goals1": [
+            {
+              "name": "Karničnik",
+              "minute": 69
+            }
+          ],
+          "goals2": [
+            {
+              "name": "Jović",
+              "minute": 90,
+              "offset": 5
+            }
+          ],
           "group": "Group C"
         },
         {
@@ -660,7 +699,27 @@
             "code": "ENG"
           },
           "score": {
+            "ft": [
+              1,
+              1
+            ],
+            "ht": [
+              1,
+              1
+            ]
           },
+          "goals1": [
+            {
+              "name": "Hjulmand",
+              "minute": 34
+            }
+          ],
+          "goals2": [
+            {
+              "name": "Kane",
+              "minute": 18
+            }
+          ],
           "group": "Group C"
         },
         {

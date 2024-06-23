@@ -844,7 +844,28 @@
             "code": "ROU"
           },
           "score": {
+            "ft": [
+              2,
+              0
+            ],
+            "ht": [
+              1,
+              0
+            ]
           },
+          "goals1": [
+            {
+              "name": "Tielemans",
+              "minute": 2
+            },
+            {
+              "name": "De Bruyne",
+              "minute": 80
+            }
+          ],
+          "goals2": [
+
+          ],
           "group": "Group E"
         },
         {
@@ -860,7 +881,29 @@
             "code": "CZE"
           },
           "score": {
+            "ft": [
+              1,
+              1
+            ],
+            "ht": [
+              1,
+              0
+            ]
           },
+          "goals1": [
+            {
+              "name": "Mikautadze",
+              "minute": 45,
+              "offset": 4,
+              "penalty": true
+            }
+          ],
+          "goals2": [
+            {
+              "name": "Schick",
+              "minute": 59
+            }
+          ],
           "group": "Group F"
         },
         {
@@ -876,7 +919,33 @@
             "code": "POR"
           },
           "score": {
+            "ft": [
+              0,
+              3
+            ],
+            "ht": [
+              0,
+              2
+            ]
           },
+          "goals1": [
+
+          ],
+          "goals2": [
+            {
+              "name": "Silva",
+              "minute": 21
+            },
+            {
+              "name": "Akaydian",
+              "minute": 28,
+              "owngoal": true
+            },
+            {
+              "name": "Fernandes",
+              "minute": 55
+            }
+          ],
           "group": "Group F"
         }
       ]

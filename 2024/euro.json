@@ -966,7 +966,28 @@
             "code": "GER"
           },
           "score": {
+            "ft": [
+              1,
+              1
+            ],
+            "ht": [
+              1,
+              0
+            ]
           },
+          "goals1": [
+            {
+              "name": "Ndoye",
+              "minute": 29
+            }
+          ],
+          "goals2": [
+            {
+              "name": "Füllkrug",
+              "minute": 90,
+              "offset": 2
+            }
+          ],
           "group": "Group A"
         },
         {
@@ -982,6 +1003,14 @@
             "code": "HUN"
           },
           "score": {
+            "ft": [
+              0,
+              1
+            ],
+            "ht": [
+              0,
+              0
+            ]
           },
           "group": "Group A"
         },

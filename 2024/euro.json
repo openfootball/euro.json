@@ -1027,7 +1027,24 @@
             "code": "ESP"
           },
           "score": {
+            "ft": [
+              0,
+              1
+            ],
+            "ht": [
+              0,
+              1
+            ]
           },
+          "goals1": [
+
+          ],
+          "goals2": [
+            {
+              "name": "Torres",
+              "minute": 13
+            }
+          ],
           "group": "Group B"
         },
         {
@@ -1043,7 +1060,28 @@
             "code": "ITA"
           },
           "score": {
+            "ft": [
+              1,
+              1
+            ],
+            "ht": [
+              0,
+              0
+            ]
           },
+          "goals1": [
+            {
+              "name": "Modrić",
+              "minute": 55
+            }
+          ],
+          "goals2": [
+            {
+              "name": "Zaccagni",
+              "minute": 90,
+              "offset": 8
+            }
+          ],
           "group": "Group B"
         },
         {

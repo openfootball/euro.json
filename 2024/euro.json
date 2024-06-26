@@ -1097,6 +1097,14 @@
             "code": "SVN"
           },
           "score": {
+            "ft": [
+              0,
+              0
+            ],
+            "ht": [
+              0,
+              0
+            ]
           },
           "group": "Group C"
         },
@@ -1113,6 +1121,14 @@
             "code": "SRB"
           },
           "score": {
+            "ft": [
+              0,
+              0
+            ],
+            "ht": [
+              0,
+              0
+            ]
           },
           "group": "Group C"
         },
@@ -1129,7 +1145,40 @@
             "code": "AUT"
           },
           "score": {
+            "ft": [
+              2,
+              3
+            ],
+            "ht": [
+              0,
+              1
+            ]
           },
+          "goals1": [
+            {
+              "name": "Gakpo",
+              "minute": 47
+            },
+            {
+              "name": "Depay",
+              "minute": 75
+            }
+          ],
+          "goals2": [
+            {
+              "name": "Malen",
+              "minute": 6,
+              "owngoal": true
+            },
+            {
+              "name": "Schmid",
+              "minute": 59
+            },
+            {
+              "name": "Sabitzer",
+              "minute": 80
+            }
+          ],
           "group": "Group D"
         },
         {
@@ -1145,7 +1194,29 @@
             "code": "POL"
           },
           "score": {
+            "ft": [
+              1,
+              1
+            ],
+            "ht": [
+              0,
+              0
+            ]
           },
+          "goals1": [
+            {
+              "name": "Mbappé",
+              "minute": 56,
+              "penalty": true
+            }
+          ],
+          "goals2": [
+            {
+              "name": "Lewandowski",
+              "minute": 79,
+              "penalty": true
+            }
+          ],
           "group": "Group D"
         },
         {

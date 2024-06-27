@@ -1232,7 +1232,28 @@
             "code": "ROU"
           },
           "score": {
+            "ft": [
+              1,
+              1
+            ],
+            "ht": [
+              1,
+              1
+            ]
           },
+          "goals1": [
+            {
+              "name": "Duda",
+              "minute": 24
+            }
+          ],
+          "goals2": [
+            {
+              "name": "R. Marin",
+              "minute": 37,
+              "penalty": true
+            }
+          ],
           "group": "Group E"
         },
         {
@@ -1248,6 +1269,14 @@
             "code": "BEL"
           },
           "score": {
+            "ft": [
+              0,
+              0
+            ],
+            "ht": [
+              0,
+              0
+            ]
           },
           "group": "Group E"
         },
@@ -1264,7 +1293,29 @@
             "code": "POR"
           },
           "score": {
+            "ft": [
+              2,
+              0
+            ],
+            "ht": [
+              1,
+              0
+            ]
           },
+          "goals1": [
+            {
+              "name": "Kvaratskhelia",
+              "minute": 2
+            },
+            {
+              "name": "Mikautadze",
+              "minute": 57,
+              "penalty": true
+            }
+          ],
+          "goals2": [
+
+          ],
           "group": "Group F"
         },
         {
@@ -1280,8 +1331,158 @@
             "code": "TUR"
           },
           "score": {
+            "ft": [
+              1,
+              2
+            ],
+            "ht": [
+              0,
+              0
+            ]
           },
+          "goals1": [
+            {
+              "name": "Souček",
+              "minute": 66
+            }
+          ],
+          "goals2": [
+            {
+              "name": "Çalhanoğlu",
+              "minute": 51
+            },
+            {
+              "name": "Tosun",
+              "minute": 90,
+              "offset": 4
+            }
+          ],
           "group": "Group F"
+        }
+      ]
+    },
+    {
+      "name": "Round of 16",
+      "matches": [
+        {
+          "num": 37,
+          "date": "2024-06-29",
+          "time": "18:00",
+          "team1": {
+            "name": "Switzerland",
+            "code": "SUI"
+          },
+          "team2": {
+            "name": "Italy",
+            "code": "ITA"
+          },
+          "score": {
+          }
+        },
+        {
+          "num": 38,
+          "date": "2024-06-29",
+          "time": "21:00",
+          "team1": {
+            "name": "Germany",
+            "code": "GER"
+          },
+          "team2": {
+            "name": "Denmark",
+            "code": "DEN"
+          },
+          "score": {
+          }
+        },
+        {
+          "num": 39,
+          "date": "2024-06-30",
+          "time": "18:00",
+          "team1": {
+            "name": "England",
+            "code": "ENG"
+          },
+          "team2": {
+            "name": "Slovakia",
+            "code": "SVK"
+          },
+          "score": {
+          }
+        },
+        {
+          "num": 40,
+          "date": "2024-06-30",
+          "time": "21:00",
+          "team1": {
+            "name": "Spain",
+            "code": "ESP"
+          },
+          "team2": {
+            "name": "Georgia",
+            "code": "GEO"
+          },
+          "score": {
+          }
+        },
+        {
+          "num": 41,
+          "date": "2024-07-01",
+          "time": "18:00",
+          "team1": {
+            "name": "France",
+            "code": "FRA"
+          },
+          "team2": {
+            "name": "Belgium",
+            "code": "BEL"
+          },
+          "score": {
+          }
+        },
+        {
+          "num": 42,
+          "date": "2024-07-01",
+          "time": "21:00",
+          "team1": {
+            "name": "Portugal",
+            "code": "POR"
+          },
+          "team2": {
+            "name": "Slovenia",
+            "code": "SVN"
+          },
+          "score": {
+          }
+        },
+        {
+          "num": 43,
+          "date": "2024-07-02",
+          "time": "18:00",
+          "team1": {
+            "name": "Romania",
+            "code": "ROU"
+          },
+          "team2": {
+            "name": "Netherlands",
+            "code": "NED"
+          },
+          "score": {
+          }
+        },
+        {
+          "num": 44,
+          "date": "2024-07-02",
+          "time": "21:00",
+          "team1": {
+            "name": "Austria",
+            "code": "AUT"
+          },
+          "team2": {
+            "name": "Turkey",
+            "code": "TUR"
+          },
+          "score": {
+          }
         }
       ]
     }

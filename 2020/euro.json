@@ -16,10 +16,16 @@
             "name": "Italy",
             "code": "ITA"
           },
-          "score1": 0,
-          "score2": 3,
-          "score1i": 0,
-          "score2i": 0,
+          "score": {
+            "ft": [
+              0,
+              3
+            ],
+            "ht": [
+              0,
+              0
+            ]
+          },
           "goals1": [
 
           ],
@@ -27,21 +33,15 @@
             {
               "name": "Demiral",
               "minute": 53,
-              "score1": null,
-              "score2": null,
               "owngoal": true
             },
             {
               "name": "Immobile",
-              "minute": 66,
-              "score1": null,
-              "score2": null
+              "minute": 66
             },
             {
               "name": "Insigne",
-              "minute": 79,
-              "score1": null,
-              "score2": null
+              "minute": 79
             }
           ],
           "group": "Group A"
@@ -58,30 +58,32 @@
             "name": "Switzerland",
             "code": "SUI"
           },
-          "score1": 1,
-          "score2": 1,
-          "score1i": 0,
-          "score2i": 0,
+          "score": {
+            "ft": [
+              1,
+              1
+            ],
+            "ht": [
+              0,
+              0
+            ]
+          },
           "goals1": [
             {
               "name": "Moore",
-              "minute": 74,
-              "score1": null,
-              "score2": null
+              "minute": 74
             }
           ],
           "goals2": [
             {
               "name": "Embolo",
-              "minute": 49,
-              "score1": null,
-              "score2": null
+              "minute": 49
             }
           ],
           "group": "Group A"
         },
         {
-          "num": 7,
+          "num": 3,
           "date": "2021-06-12",
           "time": "18:00",
           "team1": {
@@ -92,25 +94,29 @@
             "name": "Finland",
             "code": "FIN"
           },
-          "score1": 0,
-          "score2": 1,
-          "score1i": 0,
-          "score2i": 0,
+          "score": {
+            "ft": [
+              0,
+              1
+            ],
+            "ht": [
+              0,
+              0
+            ]
+          },
           "goals1": [
 
           ],
           "goals2": [
             {
               "name": "Pohjanpalo",
-              "minute": 60,
-              "score1": null,
-              "score2": null
+              "minute": 60
             }
           ],
           "group": "Group B"
         },
         {
-          "num": 8,
+          "num": 4,
           "date": "2021-06-12",
           "time": "21:00",
           "team1": {
@@ -121,28 +127,28 @@
             "name": "Russia",
             "code": "RUS"
           },
-          "score1": 3,
-          "score2": 0,
-          "score1i": 2,
-          "score2i": 0,
+          "score": {
+            "ft": [
+              3,
+              0
+            ],
+            "ht": [
+              2,
+              0
+            ]
+          },
           "goals1": [
             {
               "name": "Lukaku",
-              "minute": 10,
-              "score1": null,
-              "score2": null
+              "minute": 10
             },
             {
               "name": "Meunier",
-              "minute": 34,
-              "score1": null,
-              "score2": null
+              "minute": 34
             },
             {
               "name": "Lukaku",
-              "minute": 88,
-              "score1": null,
-              "score2": null
+              "minute": 88
             }
           ],
           "goals2": [
@@ -151,7 +157,7 @@
           "group": "Group B"
         },
         {
-          "num": 13,
+          "num": 6,
           "date": "2021-06-13",
           "time": "18:00",
           "team1": {
@@ -162,42 +168,40 @@
             "name": "North Macedonia",
             "code": "MKD"
           },
-          "score1": 3,
-          "score2": 1,
-          "score1i": 1,
-          "score2i": 1,
+          "score": {
+            "ft": [
+              3,
+              1
+            ],
+            "ht": [
+              1,
+              1
+            ]
+          },
           "goals1": [
             {
               "name": "Lainer",
-              "minute": 18,
-              "score1": null,
-              "score2": null
+              "minute": 18
             },
             {
               "name": "Gregoritsch",
-              "minute": 78,
-              "score1": null,
-              "score2": null
+              "minute": 78
             },
             {
               "name": "Arnautović",
-              "minute": 89,
-              "score1": null,
-              "score2": null
+              "minute": 89
             }
           ],
           "goals2": [
             {
               "name": "Pandev",
-              "minute": 28,
-              "score1": null,
-              "score2": null
+              "minute": 28
             }
           ],
           "group": "Group C"
         },
         {
-          "num": 14,
+          "num": 5,
           "date": "2021-06-13",
           "time": "21:00",
           "team1": {
@@ -208,48 +212,44 @@
             "name": "Ukraine",
             "code": "UKR"
           },
-          "score1": 3,
-          "score2": 2,
-          "score1i": 0,
-          "score2i": 0,
+          "score": {
+            "ft": [
+              3,
+              2
+            ],
+            "ht": [
+              0,
+              0
+            ]
+          },
           "goals1": [
             {
               "name": "Wijnaldum",
-              "minute": 52,
-              "score1": null,
-              "score2": null
+              "minute": 52
             },
             {
               "name": "Weghorst",
-              "minute": 58,
-              "score1": null,
-              "score2": null
+              "minute": 58
             },
             {
               "name": "Dumfries",
-              "minute": 85,
-              "score1": null,
-              "score2": null
+              "minute": 85
             }
           ],
           "goals2": [
             {
               "name": "Yarmolenko",
-              "minute": 75,
-              "score1": null,
-              "score2": null
+              "minute": 75
             },
             {
               "name": "Yaremchuk",
-              "minute": 79,
-              "score1": null,
-              "score2": null
+              "minute": 79
             }
           ],
           "group": "Group C"
         },
         {
-          "num": 19,
+          "num": 7,
           "date": "2021-06-13",
           "time": "15:00",
           "team1": {
@@ -260,16 +260,20 @@
             "name": "Croatia",
             "code": "CRO"
           },
-          "score1": 1,
-          "score2": 0,
-          "score1i": 0,
-          "score2i": 0,
+          "score": {
+            "ft": [
+              1,
+              0
+            ],
+            "ht": [
+              0,
+              0
+            ]
+          },
           "goals1": [
             {
               "name": "Sterling",
-              "minute": 57,
-              "score1": null,
-              "score2": null
+              "minute": 57
             }
           ],
           "goals2": [
@@ -278,7 +282,7 @@
           "group": "Group D"
         },
         {
-          "num": 20,
+          "num": 8,
           "date": "2021-06-14",
           "time": "15:00",
           "team1": {
@@ -289,31 +293,33 @@
             "name": "Czech Republic",
             "code": "CZE"
           },
-          "score1": 0,
-          "score2": 2,
-          "score1i": 0,
-          "score2i": 1,
+          "score": {
+            "ft": [
+              0,
+              2
+            ],
+            "ht": [
+              0,
+              1
+            ]
+          },
           "goals1": [
 
           ],
           "goals2": [
             {
               "name": "Schick",
-              "minute": 42,
-              "score1": null,
-              "score2": null
+              "minute": 42
             },
             {
               "name": "Schick",
-              "minute": 52,
-              "score1": null,
-              "score2": null
+              "minute": 52
             }
           ],
           "group": "Group D"
         },
         {
-          "num": 25,
+          "num": 10,
           "date": "2021-06-14",
           "time": "18:00",
           "team1": {
@@ -324,37 +330,37 @@
             "name": "Slovakia",
             "code": "SVK"
           },
-          "score1": 1,
-          "score2": 2,
-          "score1i": 0,
-          "score2i": 1,
+          "score": {
+            "ft": [
+              1,
+              2
+            ],
+            "ht": [
+              0,
+              1
+            ]
+          },
           "goals1": [
             {
               "name": "Linetty",
-              "minute": 46,
-              "score1": null,
-              "score2": null
+              "minute": 46
             }
           ],
           "goals2": [
             {
               "name": "Szczęsny",
               "minute": 18,
-              "score1": null,
-              "score2": null,
               "owngoal": true
             },
             {
               "name": "Škriniar",
-              "minute": 69,
-              "score1": null,
-              "score2": null
+              "minute": 69
             }
           ],
           "group": "Group E"
         },
         {
-          "num": 26,
+          "num": 9,
           "date": "2021-06-14",
           "time": "21:00",
           "team1": {
@@ -365,12 +371,20 @@
             "name": "Sweden",
             "code": "SWE"
           },
-          "score1": 0,
-          "score2": 0,
+          "score": {
+            "ft": [
+              0,
+              0
+            ],
+            "ht": [
+              0,
+              0
+            ]
+          },
           "group": "Group E"
         },
         {
-          "num": 31,
+          "num": 11,
           "date": "2021-06-15",
           "time": "18:00",
           "team1": {
@@ -381,37 +395,39 @@
             "name": "Portugal",
             "code": "POR"
           },
-          "score1": 0,
-          "score2": 3,
+          "score": {
+            "ft": [
+              0,
+              3
+            ],
+            "ht": [
+              0,
+              0
+            ]
+          },
           "goals1": [
 
           ],
           "goals2": [
             {
               "name": "Guerreiro",
-              "minute": 84,
-              "score1": null,
-              "score2": null
+              "minute": 84
             },
             {
               "name": "Ronaldo",
               "minute": 87,
-              "score1": null,
-              "score2": null,
               "penalty": true
             },
             {
               "name": "Ronaldo",
               "minute": 90,
-              "offset": 2,
-              "score1": null,
-              "score2": null
+              "offset": 2
             }
           ],
           "group": "Group F"
         },
         {
-          "num": 32,
+          "num": 12,
           "date": "2021-06-15",
           "time": "21:00",
           "team1": {
@@ -422,14 +438,20 @@
             "name": "Germany",
             "code": "GER"
           },
-          "score1": 1,
-          "score2": 0,
+          "score": {
+            "ft": [
+              1,
+              0
+            ],
+            "ht": [
+              1,
+              0
+            ]
+          },
           "goals1": [
             {
               "name": "Hummels",
               "minute": 20,
-              "score1": null,
-              "score2": null,
               "owngoal": true
             }
           ],
@@ -444,7 +466,7 @@
       "name": "Matchday 2",
       "matches": [
         {
-          "num": 3,
+          "num": 13,
           "date": "2021-06-16",
           "time": "18:00",
           "team1": {
@@ -455,30 +477,34 @@
             "name": "Wales",
             "code": "WAL"
           },
-          "score1": 0,
-          "score2": 2,
+          "score": {
+            "ft": [
+              0,
+              2
+            ],
+            "ht": [
+              0,
+              1
+            ]
+          },
           "goals1": [
 
           ],
           "goals2": [
             {
               "name": "Ramsey",
-              "minute": 42,
-              "score1": null,
-              "score2": null
+              "minute": 42
             },
             {
               "name": "C. Roberts",
               "minute": 90,
-              "offset": 5,
-              "score1": null,
-              "score2": null
+              "offset": 5
             }
           ],
           "group": "Group A"
         },
         {
-          "num": 4,
+          "num": 14,
           "date": "2021-06-16",
           "time": "21:00",
           "team1": {
@@ -489,26 +515,28 @@
             "name": "Switzerland",
             "code": "SUI"
           },
-          "score1": 3,
-          "score2": 0,
+          "score": {
+            "ft": [
+              3,
+              0
+            ],
+            "ht": [
+              1,
+              0
+            ]
+          },
           "goals1": [
             {
               "name": "Locatelli",
-              "minute": 26,
-              "score1": null,
-              "score2": null
+              "minute": 26
             },
             {
               "name": "Locatelli",
-              "minute": 52,
-              "score1": null,
-              "score2": null
+              "minute": 52
             },
             {
               "name": "Immobile",
-              "minute": 89,
-              "score1": null,
-              "score2": null
+              "minute": 89
             }
           ],
           "goals2": [
@@ -517,7 +545,7 @@
           "group": "Group A"
         },
         {
-          "num": 9,
+          "num": 15,
           "date": "2021-06-16",
           "time": "15:00",
           "team1": {
@@ -528,8 +556,16 @@
             "name": "Russia",
             "code": "RUS"
           },
-          "score1": 0,
-          "score2": 1,
+          "score": {
+            "ft": [
+              0,
+              1
+            ],
+            "ht": [
+              0,
+              1
+            ]
+          },
           "goals1": [
 
           ],
@@ -537,15 +573,13 @@
             {
               "name": "Miranchuk",
               "minute": 45,
-              "offset": 2,
-              "score1": null,
-              "score2": null
+              "offset": 2
             }
           ],
           "group": "Group B"
         },
         {
-          "num": 10,
+          "num": 16,
           "date": "2021-06-17",
           "time": "18:00",
           "team1": {
@@ -556,34 +590,36 @@
             "name": "Belgium",
             "code": "BEL"
           },
-          "score1": 1,
-          "score2": 2,
+          "score": {
+            "ft": [
+              1,
+              2
+            ],
+            "ht": [
+              1,
+              0
+            ]
+          },
           "goals1": [
             {
               "name": "Poulsen",
-              "minute": 2,
-              "score1": null,
-              "score2": null
+              "minute": 2
             }
           ],
           "goals2": [
             {
               "name": "T. Hazard",
-              "minute": 55,
-              "score1": null,
-              "score2": null
+              "minute": 55
             },
             {
               "name": "De Bruyne",
-              "minute": 70,
-              "score1": null,
-              "score2": null
+              "minute": 70
             }
           ],
           "group": "Group B"
         },
         {
-          "num": 15,
+          "num": 18,
           "date": "2021-06-17",
           "time": "15:00",
           "team1": {
@@ -594,34 +630,36 @@
             "name": "North Macedonia",
             "code": "MKD"
           },
-          "score1": 2,
-          "score2": 1,
+          "score": {
+            "ft": [
+              2,
+              1
+            ],
+            "ht": [
+              2,
+              0
+            ]
+          },
           "goals1": [
             {
               "name": "Yarmolenko",
-              "minute": 29,
-              "score1": null,
-              "score2": null
+              "minute": 29
             },
             {
               "name": "Yaremchuk",
-              "minute": 34,
-              "score1": null,
-              "score2": null
+              "minute": 34
             }
           ],
           "goals2": [
             {
               "name": "Alioski",
-              "minute": 57,
-              "score1": null,
-              "score2": null
+              "minute": 57
             }
           ],
           "group": "Group C"
         },
         {
-          "num": 16,
+          "num": 17,
           "date": "2021-06-17",
           "time": "21:00",
           "team1": {
@@ -632,21 +670,25 @@
             "name": "Austria",
             "code": "AUT"
           },
-          "score1": 2,
-          "score2": 0,
+          "score": {
+            "ft": [
+              2,
+              0
+            ],
+            "ht": [
+              1,
+              0
+            ]
+          },
           "goals1": [
             {
               "name": "Depay",
               "minute": 11,
-              "score1": null,
-              "score2": null,
               "penalty": true
             },
             {
               "name": "Dumfries",
-              "minute": 67,
-              "score1": null,
-              "score2": null
+              "minute": 67
             }
           ],
           "goals2": [
@@ -655,7 +697,7 @@
           "group": "Group C"
         },
         {
-          "num": 21,
+          "num": 19,
           "date": "2021-06-18",
           "time": "18:00",
           "team1": {
@@ -666,29 +708,33 @@
             "name": "Czech Republic",
             "code": "CZE"
           },
-          "score1": 1,
-          "score2": 1,
+          "score": {
+            "ft": [
+              1,
+              1
+            ],
+            "ht": [
+              0,
+              1
+            ]
+          },
           "goals1": [
             {
               "name": "Perišić",
-              "minute": 47,
-              "score1": null,
-              "score2": null
+              "minute": 47
             }
           ],
           "goals2": [
             {
               "name": "Schick",
               "minute": 37,
-              "score1": null,
-              "score2": null,
               "penalty": true
             }
           ],
           "group": "Group D"
         },
         {
-          "num": 22,
+          "num": 20,
           "date": "2021-06-18",
           "time": "21:00",
           "team1": {
@@ -699,12 +745,20 @@
             "name": "Scotland",
             "code": "SCO"
           },
-          "score1": 0,
-          "score2": 0,
+          "score": {
+            "ft": [
+              0,
+              0
+            ],
+            "ht": [
+              0,
+              0
+            ]
+          },
           "group": "Group D"
         },
         {
-          "num": 27,
+          "num": 21,
           "date": "2021-06-18",
           "time": "15:00",
           "team1": {
@@ -715,14 +769,20 @@
             "name": "Slovakia",
             "code": "SVK"
           },
-          "score1": 1,
-          "score2": 0,
+          "score": {
+            "ft": [
+              1,
+              0
+            ],
+            "ht": [
+              0,
+              0
+            ]
+          },
           "goals1": [
             {
               "name": "Forsberg",
               "minute": 77,
-              "score1": null,
-              "score2": null,
               "penalty": true
             }
           ],
@@ -732,7 +792,7 @@
           "group": "Group E"
         },
         {
-          "num": 28,
+          "num": 22,
           "date": "2021-06-19",
           "time": "21:00",
           "team1": {
@@ -743,28 +803,32 @@
             "name": "Poland",
             "code": "POL"
           },
-          "score1": 1,
-          "score2": 1,
+          "score": {
+            "ft": [
+              1,
+              1
+            ],
+            "ht": [
+              1,
+              0
+            ]
+          },
           "goals1": [
             {
               "name": "Morata",
-              "minute": 25,
-              "score1": null,
-              "score2": null
+              "minute": 25
             }
           ],
           "goals2": [
             {
               "name": "Lewandowski",
-              "minute": 54,
-              "score1": null,
-              "score2": null
+              "minute": 54
             }
           ],
           "group": "Group E"
         },
         {
-          "num": 33,
+          "num": 23,
           "date": "2021-06-19",
           "time": "15:00",
           "team1": {
@@ -775,29 +839,33 @@
             "name": "France",
             "code": "FRA"
           },
-          "score1": 1,
-          "score2": 1,
+          "score": {
+            "ft": [
+              1,
+              1
+            ],
+            "ht": [
+              1,
+              0
+            ]
+          },
           "goals1": [
             {
               "name": "Fiola",
               "minute": 45,
-              "offset": 2,
-              "score1": null,
-              "score2": null
+              "offset": 2
             }
           ],
           "goals2": [
             {
               "name": "Griezmann",
-              "minute": 66,
-              "score1": null,
-              "score2": null
+              "minute": 66
             }
           ],
           "group": "Group F"
         },
         {
-          "num": 34,
+          "num": 24,
           "date": "2021-06-19",
           "time": "18:00",
           "team1": {
@@ -808,48 +876,44 @@
             "name": "Germany",
             "code": "GER"
           },
-          "score1": 2,
-          "score2": 4,
+          "score": {
+            "ft": [
+              2,
+              4
+            ],
+            "ht": [
+              1,
+              2
+            ]
+          },
           "goals1": [
             {
               "name": "Ronaldo",
-              "minute": 15,
-              "score1": null,
-              "score2": null
+              "minute": 15
             },
             {
               "name": "Jota",
-              "minute": 67,
-              "score1": null,
-              "score2": null
+              "minute": 67
             }
           ],
           "goals2": [
             {
               "name": "Dias",
               "minute": 35,
-              "score1": null,
-              "score2": null,
               "owngoal": true
             },
             {
               "name": "Guerreiro",
               "minute": 39,
-              "score1": null,
-              "score2": null,
               "owngoal": true
             },
             {
               "name": "Havertz",
-              "minute": 51,
-              "score1": null,
-              "score2": null
+              "minute": 51
             },
             {
               "name": "Gosens",
-              "minute": 60,
-              "score1": null,
-              "score2": null
+              "minute": 60
             }
           ],
           "group": "Group F"
@@ -860,7 +924,7 @@
       "name": "Matchday 3",
       "matches": [
         {
-          "num": 5,
+          "num": 25,
           "date": "2021-06-20",
           "time": "18:00",
           "team1": {
@@ -871,40 +935,40 @@
             "name": "Turkey",
             "code": "TUR"
           },
-          "score1": 3,
-          "score2": 1,
+          "score": {
+            "ft": [
+              3,
+              1
+            ],
+            "ht": [
+              2,
+              0
+            ]
+          },
           "goals1": [
             {
               "name": "Seferovic",
-              "minute": 6,
-              "score1": null,
-              "score2": null
+              "minute": 6
             },
             {
               "name": "Shaqiri",
-              "minute": 26,
-              "score1": null,
-              "score2": null
+              "minute": 26
             },
             {
               "name": "Shaqiri",
-              "minute": 68,
-              "score1": null,
-              "score2": null
+              "minute": 68
             }
           ],
           "goals2": [
             {
               "name": "Kahveci",
-              "minute": 62,
-              "score1": null,
-              "score2": null
+              "minute": 62
             }
           ],
           "group": "Group A"
         },
         {
-          "num": 6,
+          "num": 26,
           "date": "2021-06-20",
           "time": "18:00",
           "team1": {
@@ -915,14 +979,20 @@
             "name": "Wales",
             "code": "WAL"
           },
-          "score1": 1,
-          "score2": 0,
+          "score": {
+            "ft": [
+              1,
+              0
+            ],
+            "ht": [
+              1,
+              0
+            ]
+          },
           "goals1": [
             {
               "name": "Pessina",
-              "minute": 39,
-              "score1": null,
-              "score2": null
+              "minute": 39
             }
           ],
           "goals2": [
@@ -931,7 +1001,7 @@
           "group": "Group A"
         },
         {
-          "num": 11,
+          "num": 27,
           "date": "2021-06-21",
           "time": "21:00",
           "team1": {
@@ -942,47 +1012,45 @@
             "name": "Denmark",
             "code": "DEN"
           },
-          "score1": 1,
-          "score2": 4,
+          "score": {
+            "ft": [
+              1,
+              4
+            ],
+            "ht": [
+              0,
+              1
+            ]
+          },
           "goals1": [
             {
               "name": "Dzyuba",
               "minute": 70,
-              "score1": null,
-              "score2": null,
               "penalty": true
             }
           ],
           "goals2": [
             {
               "name": "Damsgaard",
-              "minute": 38,
-              "score1": null,
-              "score2": null
+              "minute": 38
             },
             {
               "name": "Poulsen",
-              "minute": 59,
-              "score1": null,
-              "score2": null
+              "minute": 59
             },
             {
               "name": "Christensen",
-              "minute": 79,
-              "score1": null,
-              "score2": null
+              "minute": 79
             },
             {
               "name": "Mæhle",
-              "minute": 82,
-              "score1": null,
-              "score2": null
+              "minute": 82
             }
           ],
           "group": "Group B"
         },
         {
-          "num": 12,
+          "num": 28,
           "date": "2021-06-21",
           "time": "21:00",
           "team1": {
@@ -993,8 +1061,16 @@
             "name": "Belgium",
             "code": "BEL"
           },
-          "score1": 0,
-          "score2": 2,
+          "score": {
+            "ft": [
+              0,
+              2
+            ],
+            "ht": [
+              0,
+              0
+            ]
+          },
           "goals1": [
 
           ],
@@ -1002,21 +1078,17 @@
             {
               "name": "Hradecky",
               "minute": 74,
-              "score1": null,
-              "score2": null,
               "owngoal": true
             },
             {
               "name": "Lukaku",
-              "minute": 81,
-              "score1": null,
-              "score2": null
+              "minute": 81
             }
           ],
           "group": "Group B"
         },
         {
-          "num": 17,
+          "num": 29,
           "date": "2021-06-21",
           "time": "18:00",
           "team1": {
@@ -1027,35 +1099,37 @@
             "name": "Netherlands",
             "code": "NED"
           },
-          "score1": 0,
-          "score2": 3,
+          "score": {
+            "ft": [
+              0,
+              3
+            ],
+            "ht": [
+              0,
+              1
+            ]
+          },
           "goals1": [
 
           ],
           "goals2": [
             {
               "name": "Depay",
-              "minute": 24,
-              "score1": null,
-              "score2": null
+              "minute": 24
             },
             {
               "name": "Wijnaldum",
-              "minute": 50,
-              "score1": null,
-              "score2": null
+              "minute": 50
             },
             {
               "name": "Wijnaldum",
-              "minute": 58,
-              "score1": null,
-              "score2": null
+              "minute": 58
             }
           ],
           "group": "Group C"
         },
         {
-          "num": 18,
+          "num": 30,
           "date": "2021-06-21",
           "time": "18:00",
           "team1": {
@@ -1066,23 +1140,29 @@
             "name": "Austria",
             "code": "AUT"
           },
-          "score1": 0,
-          "score2": 1,
+          "score": {
+            "ft": [
+              0,
+              1
+            ],
+            "ht": [
+              0,
+              1
+            ]
+          },
           "goals1": [
 
           ],
           "goals2": [
             {
               "name": "Baumgartner",
-              "minute": 21,
-              "score1": null,
-              "score2": null
+              "minute": 21
             }
           ],
           "group": "Group C"
         },
         {
-          "num": 23,
+          "num": 31,
           "date": "2021-06-22",
           "time": "21:00",
           "team1": {
@@ -1093,40 +1173,40 @@
             "name": "Scotland",
             "code": "SCO"
           },
-          "score1": 3,
-          "score2": 1,
+          "score": {
+            "ft": [
+              3,
+              1
+            ],
+            "ht": [
+              1,
+              1
+            ]
+          },
           "goals1": [
             {
               "name": "Vlašić",
-              "minute": 17,
-              "score1": null,
-              "score2": null
+              "minute": 17
             },
             {
               "name": "Modrić",
-              "minute": 62,
-              "score1": null,
-              "score2": null
+              "minute": 62
             },
             {
               "name": "Perišić",
-              "minute": 77,
-              "score1": null,
-              "score2": null
+              "minute": 77
             }
           ],
           "goals2": [
             {
               "name": "McGregor",
-              "minute": 42,
-              "score1": null,
-              "score2": null
+              "minute": 42
             }
           ],
           "group": "Group D"
         },
         {
-          "num": 24,
+          "num": 32,
           "date": "2021-06-22",
           "time": "21:00",
           "team1": {
@@ -1137,23 +1217,29 @@
             "name": "England",
             "code": "ENG"
           },
-          "score1": 0,
-          "score2": 1,
+          "score": {
+            "ft": [
+              0,
+              1
+            ],
+            "ht": [
+              0,
+              1
+            ]
+          },
           "goals1": [
 
           ],
           "goals2": [
             {
               "name": "Sterling",
-              "minute": 12,
-              "score1": null,
-              "score2": null
+              "minute": 12
             }
           ],
           "group": "Group D"
         },
         {
-          "num": 29,
+          "num": 33,
           "date": "2021-06-23",
           "time": "18:00",
           "team1": {
@@ -1164,8 +1250,16 @@
             "name": "Spain",
             "code": "ESP"
           },
-          "score1": 0,
-          "score2": 5,
+          "score": {
+            "ft": [
+              0,
+              5
+            ],
+            "ht": [
+              0,
+              2
+            ]
+          },
           "goals1": [
 
           ],
@@ -1173,41 +1267,31 @@
             {
               "name": "Dúbravka",
               "minute": 30,
-              "score1": null,
-              "score2": null,
               "owngoal": true
             },
             {
               "name": "Laporte",
               "minute": 45,
-              "offset": 3,
-              "score1": null,
-              "score2": null
+              "offset": 3
             },
             {
               "name": "Sarabia",
-              "minute": 56,
-              "score1": null,
-              "score2": null
+              "minute": 56
             },
             {
               "name": "F. Torres",
-              "minute": 67,
-              "score1": null,
-              "score2": null
+              "minute": 67
             },
             {
               "name": "Kucka",
               "minute": 71,
-              "score1": null,
-              "score2": null,
               "owngoal": true
             }
           ],
           "group": "Group E"
         },
         {
-          "num": 30,
+          "num": 34,
           "date": "2021-06-23",
           "time": "18:00",
           "team1": {
@@ -1218,41 +1302,39 @@
             "name": "Poland",
             "code": "POL"
           },
-          "score1": 3,
-          "score2": 2,
+          "score": {
+            "ft": [
+              3,
+              2
+            ],
+            "ht": [
+              1,
+              0
+            ]
+          },
           "goals1": [
             {
               "name": "Forsberg",
-              "minute": 2,
-              "score1": null,
-              "score2": null
+              "minute": 2
             },
             {
               "name": "Forsberg",
-              "minute": 59,
-              "score1": null,
-              "score2": null
+              "minute": 59
             },
             {
               "name": "Claesson",
               "minute": 90,
-              "offset": 4,
-              "score1": null,
-              "score2": null
+              "offset": 4
             }
           ],
           "goals2": [
             {
               "name": "Lewandowski",
-              "minute": 61,
-              "score1": null,
-              "score2": null
+              "minute": 61
             },
             {
               "name": "Lewandowski",
-              "minute": 84,
-              "score1": null,
-              "score2": null
+              "minute": 84
             }
           ],
           "group": "Group E"
@@ -1269,21 +1351,25 @@
             "name": "France",
             "code": "FRA"
           },
-          "score1": 2,
-          "score2": 2,
+          "score": {
+            "ft": [
+              2,
+              2
+            ],
+            "ht": [
+              1,
+              1
+            ]
+          },
           "goals1": [
             {
               "name": "Ronaldo",
               "minute": 31,
-              "score1": null,
-              "score2": null,
               "penalty": true
             },
             {
               "name": "Ronaldo",
               "minute": 60,
-              "score1": null,
-              "score2": null,
               "penalty": true
             }
           ],
@@ -1292,15 +1378,11 @@
               "name": "Benzema",
               "minute": 45,
               "offset": 2,
-              "score1": null,
-              "score2": null,
               "penalty": true
             },
             {
               "name": "Benzema",
-              "minute": 47,
-              "score1": null,
-              "score2": null
+              "minute": 47
             }
           ],
           "group": "Group F"
@@ -1317,34 +1399,34 @@
             "name": "Hungary",
             "code": "HUN"
           },
-          "score1": 2,
-          "score2": 2,
+          "score": {
+            "ft": [
+              2,
+              2
+            ],
+            "ht": [
+              0,
+              1
+            ]
+          },
           "goals1": [
             {
               "name": "Havertz",
-              "minute": 66,
-              "score1": null,
-              "score2": null
+              "minute": 66
             },
             {
               "name": "Goretzka",
-              "minute": 84,
-              "score1": null,
-              "score2": null
+              "minute": 84
             }
           ],
           "goals2": [
             {
               "name": "Ád. Szalai",
-              "minute": 11,
-              "score1": null,
-              "score2": null
+              "minute": 11
             },
             {
               "name": "Schäfer",
-              "minute": 68,
-              "score1": null,
-              "score2": null
+              "minute": 68
             }
           ],
           "group": "Group F"
@@ -1355,7 +1437,7 @@
       "name": "Round of 16",
       "matches": [
         {
-          "num": 37,
+          "num": 38,
           "date": "2021-06-26",
           "time": "18:00",
           "team1": {
@@ -1366,41 +1448,41 @@
             "name": "Denmark",
             "code": "DEN"
           },
-          "score1": 0,
-          "score2": 4,
+          "score": {
+            "ft": [
+              0,
+              4
+            ],
+            "ht": [
+              0,
+              1
+            ]
+          },
           "goals1": [
 
           ],
           "goals2": [
             {
               "name": "Dolberg",
-              "minute": 27,
-              "score1": null,
-              "score2": null
+              "minute": 27
             },
             {
               "name": "Dolberg",
-              "minute": 48,
-              "score1": null,
-              "score2": null
+              "minute": 48
             },
             {
               "name": "Mæhle",
-              "minute": 88,
-              "score1": null,
-              "score2": null
+              "minute": 88
             },
             {
               "name": "Braithwaite",
               "minute": 90,
-              "offset": 4,
-              "score1": null,
-              "score2": null
+              "offset": 4
             }
           ]
         },
         {
-          "num": 38,
+          "num": 37,
           "date": "2021-06-26",
           "time": "21:00",
           "team1": {
@@ -1411,35 +1493,39 @@
             "name": "Austria",
             "code": "AUT"
           },
-          "score1": 1,
-          "score2": 1,
-          "score1et": 2,
-          "score2et": 1,
+          "score": {
+            "ft": [
+              0,
+              0
+            ],
+            "ht": [
+              0,
+              0
+            ],
+            "et": [
+              2,
+              1
+            ]
+          },
           "goals1": [
             {
               "name": "Chiesa",
-              "minute": 95,
-              "score1": null,
-              "score2": null
+              "minute": 95
             },
             {
               "name": "Pessina",
-              "minute": 105,
-              "score1": null,
-              "score2": null
+              "minute": 105
             }
           ],
           "goals2": [
             {
               "name": "Kalajdžić",
-              "minute": 114,
-              "score1": null,
-              "score2": null
+              "minute": 114
             }
           ]
         },
         {
-          "num": 39,
+          "num": 40,
           "date": "2021-06-27",
           "time": "18:00",
           "team1": {
@@ -1450,28 +1536,32 @@
             "name": "Czech Republic",
             "code": "CZE"
           },
-          "score1": 0,
-          "score2": 2,
+          "score": {
+            "ft": [
+              0,
+              2
+            ],
+            "ht": [
+              0,
+              0
+            ]
+          },
           "goals1": [
 
           ],
           "goals2": [
             {
               "name": "Holeš",
-              "minute": 68,
-              "score1": null,
-              "score2": null
+              "minute": 68
             },
             {
               "name": "Schick",
-              "minute": 80,
-              "score1": null,
-              "score2": null
+              "minute": 80
             }
           ]
         },
         {
-          "num": 40,
+          "num": 39,
           "date": "2021-06-27",
           "time": "21:00",
           "team1": {
@@ -1482,14 +1572,20 @@
             "name": "Portugal",
             "code": "POR"
           },
-          "score1": 1,
-          "score2": 0,
+          "score": {
+            "ft": [
+              1,
+              0
+            ],
+            "ht": [
+              1,
+              0
+            ]
+          },
           "goals1": [
             {
               "name": "T. Hazard",
-              "minute": 42,
-              "score1": null,
-              "score2": null
+              "minute": 42
             }
           ],
           "goals2": [
@@ -1497,7 +1593,7 @@
           ]
         },
         {
-          "num": 41,
+          "num": 42,
           "date": "2021-06-28",
           "time": "18:00",
           "team1": {
@@ -1508,67 +1604,61 @@
             "name": "Spain",
             "code": "ESP"
           },
-          "score1": 3,
-          "score2": 3,
-          "score1et": 3,
-          "score2et": 5,
+          "score": {
+            "ft": [
+              3,
+              3
+            ],
+            "ht": [
+              1,
+              1
+            ],
+            "et": [
+              3,
+              5
+            ]
+          },
           "goals1": [
             {
               "name": "Pedri",
               "minute": 20,
-              "score1": null,
-              "score2": null,
               "owngoal": true
             },
             {
               "name": "Oršić",
-              "minute": 85,
-              "score1": null,
-              "score2": null
+              "minute": 85
             },
             {
               "name": "Pašalić",
               "minute": 90,
-              "offset": 2,
-              "score1": null,
-              "score2": null
+              "offset": 2
             }
           ],
           "goals2": [
             {
               "name": "Sarabia",
-              "minute": 38,
-              "score1": null,
-              "score2": null
+              "minute": 38
             },
             {
               "name": "Azpilicueta",
-              "minute": 57,
-              "score1": null,
-              "score2": null
+              "minute": 57
             },
             {
               "name": "F. Torres",
-              "minute": 77,
-              "score1": null,
-              "score2": null
+              "minute": 77
             },
             {
               "name": "Morata",
-              "minute": 100,
-              "score1": null,
-              "score2": null
+              "minute": 100
             },
             {
               "name": "Oyarzabal",
-              "minute": 103,
-              "score1": null,
-              "score2": null
+              "minute": 103
             }
           ]
         },
         {
-          "num": 42,
+          "num": 41,
           "date": "2021-06-28",
           "time": "21:00",
           "team1": {
@@ -1579,55 +1669,55 @@
             "name": "Switzerland",
             "code": "SUI"
           },
-          "score1": 3,
-          "score2": 3,
-          "score1et": 3,
-          "score2et": 3,
-          "score1p": 4,
-          "score2p": 5,
+          "score": {
+            "ft": [
+              3,
+              3
+            ],
+            "ht": [
+              0,
+              1
+            ],
+            "et": [
+              3,
+              3
+            ],
+            "p": [
+              4,
+              5
+            ]
+          },
           "goals1": [
             {
               "name": "Benzema",
-              "minute": 57,
-              "score1": null,
-              "score2": null
+              "minute": 57
             },
             {
               "name": "Benzema",
-              "minute": 59,
-              "score1": null,
-              "score2": null
+              "minute": 59
             },
             {
               "name": "Pogba",
-              "minute": 75,
-              "score1": null,
-              "score2": null
+              "minute": 75
             }
           ],
           "goals2": [
             {
               "name": "Seferovic",
-              "minute": 15,
-              "score1": null,
-              "score2": null
+              "minute": 15
             },
             {
               "name": "Seferovic",
-              "minute": 81,
-              "score1": null,
-              "score2": null
+              "minute": 81
             },
             {
               "name": "Gavranović",
-              "minute": 90,
-              "score1": null,
-              "score2": null
+              "minute": 90
             }
           ]
         },
         {
-          "num": 43,
+          "num": 44,
           "date": "2021-06-29",
           "time": "18:00",
           "team1": {
@@ -1638,20 +1728,24 @@
             "name": "Germany",
             "code": "GER"
           },
-          "score1": 2,
-          "score2": 0,
+          "score": {
+            "ft": [
+              2,
+              0
+            ],
+            "ht": [
+              0,
+              0
+            ]
+          },
           "goals1": [
             {
               "name": "Sterling",
-              "minute": 75,
-              "score1": null,
-              "score2": null
+              "minute": 75
             },
             {
               "name": "Kane",
-              "minute": 86,
-              "score1": null,
-              "score2": null
+              "minute": 86
             }
           ],
           "goals2": [
@@ -1659,7 +1753,7 @@
           ]
         },
         {
-          "num": 44,
+          "num": 43,
           "date": "2021-06-29",
           "time": "21:00",
           "team1": {
@@ -1670,31 +1764,35 @@
             "name": "Ukraine",
             "code": "UKR"
           },
-          "score1": 1,
-          "score2": 1,
-          "score1et": 1,
-          "score2et": 2,
+          "score": {
+            "ft": [
+              1,
+              1
+            ],
+            "ht": [
+              1,
+              1
+            ],
+            "et": [
+              1,
+              2
+            ]
+          },
           "goals1": [
             {
               "name": "Forsberg",
-              "minute": 43,
-              "score1": null,
-              "score2": null
+              "minute": 43
             }
           ],
           "goals2": [
             {
               "name": "Zinchenko",
-              "minute": 27,
-              "score1": null,
-              "score2": null
+              "minute": 27
             },
             {
               "name": "Dovbyk",
               "minute": 120,
-              "offset": 1,
-              "score1": null,
-              "score2": null
+              "offset": 1
             }
           ]
         }
@@ -1715,26 +1813,34 @@
             "name": "Spain",
             "code": "ESP"
           },
-          "score1": 1,
-          "score2": 1,
-          "score1et": 1,
-          "score2et": 1,
-          "score1p": 1,
-          "score2p": 3,
+          "score": {
+            "ft": [
+              1,
+              1
+            ],
+            "ht": [
+              0,
+              1
+            ],
+            "et": [
+              1,
+              1
+            ],
+            "p": [
+              1,
+              3
+            ]
+          },
           "goals1": [
             {
               "name": "Shaqiri",
-              "minute": 68,
-              "score1": null,
-              "score2": null
+              "minute": 68
             }
           ],
           "goals2": [
             {
               "name": "Zakaria",
               "minute": 8,
-              "score1": null,
-              "score2": null,
               "owngoal": true
             }
           ]
@@ -1751,30 +1857,32 @@
             "name": "Italy",
             "code": "ITA"
           },
-          "score1": 1,
-          "score2": 2,
+          "score": {
+            "ft": [
+              1,
+              2
+            ],
+            "ht": [
+              1,
+              2
+            ]
+          },
           "goals1": [
             {
               "name": "Lukaku",
               "minute": 45,
               "offset": 2,
-              "score1": null,
-              "score2": null,
               "penalty": true
             }
           ],
           "goals2": [
             {
               "name": "Barella",
-              "minute": 31,
-              "score1": null,
-              "score2": null
+              "minute": 31
             },
             {
               "name": "Insigne",
-              "minute": 44,
-              "score1": null,
-              "score2": null
+              "minute": 44
             }
           ]
         },
@@ -1790,28 +1898,30 @@
             "name": "Denmark",
             "code": "DEN"
           },
-          "score1": 1,
-          "score2": 2,
+          "score": {
+            "ft": [
+              1,
+              2
+            ],
+            "ht": [
+              0,
+              2
+            ]
+          },
           "goals1": [
             {
               "name": "Schick",
-              "minute": 49,
-              "score1": null,
-              "score2": null
+              "minute": 49
             }
           ],
           "goals2": [
             {
               "name": "Delaney",
-              "minute": 5,
-              "score1": null,
-              "score2": null
+              "minute": 5
             },
             {
               "name": "Dolberg",
-              "minute": 42,
-              "score1": null,
-              "score2": null
+              "minute": 42
             }
           ]
         },
@@ -1827,32 +1937,32 @@
             "name": "England",
             "code": "ENG"
           },
-          "score1": 0,
-          "score2": 4,
+          "score": {
+            "ft": [
+              0,
+              4
+            ],
+            "ht": [
+              0,
+              1
+            ]
+          },
           "goals1": [
             {
               "name": "Kane",
-              "minute": 4,
-              "score1": null,
-              "score2": null
+              "minute": 4
             },
             {
               "name": "Maguire",
-              "minute": 46,
-              "score1": null,
-              "score2": null
+              "minute": 46
             },
             {
               "name": "Kane",
-              "minute": 50,
-              "score1": null,
-              "score2": null
+              "minute": 50
             },
             {
               "name": "J. Henderson",
-              "minute": 63,
-              "score1": null,
-              "score2": null
+              "minute": 63
             }
           ],
           "goals2": [
@@ -1876,26 +1986,34 @@
             "name": "Spain",
             "code": "ESP"
           },
-          "score1": 1,
-          "score2": 1,
-          "score1et": 1,
-          "score2et": 1,
-          "score1p": 4,
-          "score2p": 2,
+          "score": {
+            "ft": [
+              1,
+              1
+            ],
+            "ht": [
+              0,
+              0
+            ],
+            "et": [
+              1,
+              1
+            ],
+            "p": [
+              4,
+              2
+            ]
+          },
           "goals1": [
             {
               "name": "Chiesa",
-              "minute": 60,
-              "score1": null,
-              "score2": null
+              "minute": 60
             }
           ],
           "goals2": [
             {
               "name": "Morata",
-              "minute": 80,
-              "score1": null,
-              "score2": null
+              "minute": 80
             }
           ]
         },
@@ -1911,27 +2029,35 @@
             "name": "Denmark",
             "code": "DEN"
           },
+          "score": {
+            "ft": [
+              1,
+              1
+            ],
+            "ht": [
+              1,
+              1
+            ],
+            "et": [
+              2,
+              1
+            ]
+          },
           "goals1": [
             {
               "name": "Kjær",
               "minute": 39,
-              "score1": null,
-              "score2": null,
               "owngoal": true
             },
             {
               "name": "Kane",
-              "minute": 104,
-              "score1": null,
-              "score2": null
+              "minute": 104
             }
           ],
           "goals2": [
             {
               "name": "Damsgaard",
-              "minute": 30,
-              "score1": null,
-              "score2": null
+              "minute": 30
             }
           ]
         }
@@ -1952,26 +2078,34 @@
             "name": "England",
             "code": "ENG"
           },
-          "score1": 1,
-          "score2": 1,
-          "score1et": 1,
-          "score2et": 1,
-          "score1p": 3,
-          "score2p": 2,
+          "score": {
+            "ft": [
+              1,
+              1
+            ],
+            "ht": [
+              0,
+              1
+            ],
+            "et": [
+              1,
+              1
+            ],
+            "p": [
+              3,
+              2
+            ]
+          },
           "goals1": [
             {
               "name": "Bonucci",
-              "minute": 67,
-              "score1": null,
-              "score2": null
+              "minute": 67
             }
           ],
           "goals2": [
             {
               "name": "Shaw",
-              "minute": 2,
-              "score1": null,
-              "score2": null
+              "minute": 2
             }
           ]
         }

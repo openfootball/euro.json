@@ -1387,7 +1387,28 @@
             "code": "ITA"
           },
           "score": {
-          }
+            "ft": [
+              2,
+              0
+            ],
+            "ht": [
+              1,
+              0
+            ]
+          },
+          "goals1": [
+            {
+              "name": "Freuler",
+              "minute": 37
+            },
+            {
+              "name": "Vargas",
+              "minute": 46
+            }
+          ],
+          "goals2": [
+
+          ]
         },
         {
           "num": 37,
@@ -1402,7 +1423,29 @@
             "code": "DEN"
           },
           "score": {
-          }
+            "ft": [
+              2,
+              0
+            ],
+            "ht": [
+              0,
+              0
+            ]
+          },
+          "goals1": [
+            {
+              "name": "Havertz",
+              "minute": 53,
+              "penalty": true
+            },
+            {
+              "name": "Musiala",
+              "minute": 68
+            }
+          ],
+          "goals2": [
+
+          ]
         },
         {
           "num": 40,

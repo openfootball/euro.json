@@ -1460,7 +1460,32 @@
             "code": "SVK"
           },
           "score": {
-          }
+            "ft": [
+              2,
+              1
+            ],
+            "ht": [
+              0,
+              1
+            ]
+          },
+          "goals1": [
+            {
+              "name": "Bellingham",
+              "minute": 90,
+              "offset": 5
+            },
+            {
+              "name": "Kane",
+              "minute": 91
+            }
+          ],
+          "goals2": [
+            {
+              "name": "Schranz",
+              "minute": 25
+            }
+          ]
         },
         {
           "num": 39,
@@ -1475,7 +1500,32 @@
             "code": "GEO"
           },
           "score": {
-          }
+            "ft": [
+              4,
+              1
+            ],
+            "ht": [
+              1,
+              1
+            ]
+          },
+          "goals1": [
+            {
+              "name": "Rodri",
+              "minute": 39
+            },
+            {
+              "name": "Ruiz",
+              "minute": 51
+            }
+          ],
+          "goals2": [
+            {
+              "name": "Le Normand",
+              "minute": 18,
+              "owngoal": true
+            }
+          ]
         },
         {
           "num": 42,

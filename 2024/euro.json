@@ -1604,7 +1604,33 @@
             "code": "NED"
           },
           "score": {
-          }
+            "ft": [
+              0,
+              3
+            ],
+            "ht": [
+              0,
+              1
+            ]
+          },
+          "goals1": [
+
+          ],
+          "goals2": [
+            {
+              "name": "Gakpo",
+              "minute": 20
+            },
+            {
+              "name": "Malen",
+              "minute": 83
+            },
+            {
+              "name": "Malen",
+              "minute": 90,
+              "offset": 3
+            }
+          ]
         },
         {
           "num": 44,

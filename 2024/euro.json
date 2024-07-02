@@ -1645,7 +1645,31 @@
             "code": "TUR"
           },
           "score": {
-          }
+            "ft": [
+              1,
+              2
+            ],
+            "ht": [
+              0,
+              1
+            ]
+          },
+          "goals1": [
+            {
+              "name": "Gregoritsch",
+              "minute": 66
+            }
+          ],
+          "goals2": [
+            {
+              "name": "Demiral",
+              "minute": 1
+            },
+            {
+              "name": "Demiral",
+              "minute": 59
+            }
+          ]
         }
       ]
     }

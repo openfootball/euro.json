@@ -1672,6 +1672,71 @@
           ]
         }
       ]
+    },
+    {
+      "name": "Quarter-finals",
+      "matches": [
+        {
+          "num": 45,
+          "date": "2024-07-05",
+          "time": "18:00",
+          "team1": {
+            "name": "Spain",
+            "code": "ESP"
+          },
+          "team2": {
+            "name": "Germany",
+            "code": "GER"
+          },
+          "score": {
+          }
+        },
+        {
+          "num": 46,
+          "date": "2024-07-05",
+          "time": "21:00",
+          "team1": {
+            "name": "Portugal",
+            "code": "POR"
+          },
+          "team2": {
+            "name": "France",
+            "code": "FRA"
+          },
+          "score": {
+          }
+        },
+        {
+          "num": 48,
+          "date": "2024-07-06",
+          "time": "18:00",
+          "team1": {
+            "name": "England",
+            "code": "ENG"
+          },
+          "team2": {
+            "name": "Switzerland",
+            "code": "SUI"
+          },
+          "score": {
+          }
+        },
+        {
+          "num": 47,
+          "date": "2024-07-06",
+          "time": "21:00",
+          "team1": {
+            "name": "Netherlands",
+            "code": "NED"
+          },
+          "team2": {
+            "name": "Turkey",
+            "code": "TUR"
+          },
+          "score": {
+          }
+        }
+      ]
     }
   ]
 }

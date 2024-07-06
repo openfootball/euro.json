@@ -1697,7 +1697,31 @@
             "code": "GER"
           },
           "score": {
-          }
+            "ft": [
+              2,
+              1
+            ],
+            "ht": [
+              0,
+              0
+            ]
+          },
+          "goals1": [
+            {
+              "name": "Olmo",
+              "minute": 51
+            },
+            {
+              "name": "Merino",
+              "minute": 119
+            }
+          ],
+          "goals2": [
+            {
+              "name": "Wirtz",
+              "minute": 89
+            }
+          ]
         },
         {
           "num": 46,
@@ -1712,6 +1736,22 @@
             "code": "FRA"
           },
           "score": {
+            "ft": [
+              0,
+              0
+            ],
+            "ht": [
+              0,
+              0
+            ],
+            "et": [
+              0,
+              0
+            ],
+            "p": [
+              3,
+              5
+            ]
           }
         },
         {
@@ -1727,7 +1767,35 @@
             "code": "SUI"
           },
           "score": {
-          }
+            "ft": [
+              1,
+              1
+            ],
+            "ht": [
+              0,
+              0
+            ],
+            "et": [
+              1,
+              1
+            ],
+            "p": [
+              5,
+              3
+            ]
+          },
+          "goals1": [
+            {
+              "name": "Saka",
+              "minute": 80
+            }
+          ],
+          "goals2": [
+            {
+              "name": "Embolo",
+              "minute": 75
+            }
+          ]
         },
         {
           "num": 47,
@@ -1742,7 +1810,32 @@
             "code": "TUR"
           },
           "score": {
-          }
+            "ft": [
+              2,
+              1
+            ],
+            "ht": [
+              0,
+              1
+            ]
+          },
+          "goals1": [
+            {
+              "name": "Vrij",
+              "minute": 70
+            },
+            {
+              "name": "Müldür",
+              "minute": 76,
+              "owngoal": true
+            }
+          ],
+          "goals2": [
+            {
+              "name": "Akaydin",
+              "minute": 35
+            }
+          ]
         }
       ]
     }

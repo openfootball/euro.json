@@ -1855,7 +1855,31 @@
             "code": "FRA"
           },
           "score": {
-          }
+            "ft": [
+              2,
+              1
+            ],
+            "ht": [
+              2,
+              1
+            ]
+          },
+          "goals1": [
+            {
+              "name": "Yamal",
+              "minute": 21
+            },
+            {
+              "name": "Olmo",
+              "minute": 25
+            }
+          ],
+          "goals2": [
+            {
+              "name": "Kolo Muani",
+              "minute": 8
+            }
+          ]
         },
         {
           "num": 50,

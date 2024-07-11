@@ -1894,6 +1894,52 @@
             "code": "ENG"
           },
           "score": {
+            "ft": [
+              1,
+              2
+            ],
+            "ht": [
+              1,
+              1
+            ]
+          },
+          "goals1": [
+            {
+              "name": "Simons",
+              "minute": 7
+            }
+          ],
+          "goals2": [
+            {
+              "name": "Kane",
+              "minute": 18,
+              "penalty": true
+            },
+            {
+              "name": "Watkins",
+              "minute": 90,
+              "offset": 1
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Final",
+      "matches": [
+        {
+          "num": 51,
+          "date": "2024-07-14",
+          "time": "21:00",
+          "team1": {
+            "name": "Spain",
+            "code": "ESP"
+          },
+          "team2": {
+            "name": "England",
+            "code": "ENG"
+          },
+          "score": {
           }
         }
       ]

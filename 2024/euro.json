@@ -1940,7 +1940,31 @@
             "code": "ENG"
           },
           "score": {
-          }
+            "ft": [
+              2,
+              1
+            ],
+            "ht": [
+              0,
+              0
+            ]
+          },
+          "goals1": [
+            {
+              "name": "Williams",
+              "minute": 47
+            },
+            {
+              "name": "Oyarzabal",
+              "minute": 86
+            }
+          ],
+          "goals2": [
+            {
+              "name": "Palmer",
+              "minute": 73
+            }
+          ]
         }
       ]
     }

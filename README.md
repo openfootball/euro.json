@@ -11,46 +11,51 @@ Example - Euro 2024 Match Schedule (Fixtures and Results) - [`2024/euro.json`](h
 
 ``` json
 {
-  "name": "Euro 2024",
-  "rounds": [
-    {
-      "name": "Matchday 1",
-      "matches": [
-        {
-          "num": 1,
-          "date": "2024-06-14",
-          "time": "21:00",
-          "team1": { "name": "Germany", "code": "GER" },
-          "team2": { "name": "Scotland","code": "SCO" },
-          "score": { "ft": [5,1],
-                     "ht": [3,0] },
-          "goals1": [{ "name": "Wirtz",    "minute": 10 },
-                     { "name": "Musiala",  "minute": 19 },
-                     { "name": "Havertz",  "minute": 45, "offset": 1, "penalty": true },
-                     { "name": "Füllkrug", "minute": 68 },
-                     { "name": "Can",      "minute": 90, "offset": 3 }],
-          "goals2": [{ "name": "Rüdiger",  "minute": 87, "owngoal": true }],
-          "group": "Group A"
-        },
-        {
-          "num": 2,
-          "date": "2024-06-15",
-          "time": "15:00",
-          "team1": { "name": "Hungary", "code": "HUN" },
-          "team2": { "name": "Switzerland", "code": "SUI" },
-          "score": { "ft": [1,3],
-                     "ht": [0,2] },
-          "goals1": [{ "name": "Varga",     "minute": 66 }],
-          "goals2": [{ "name": "Duah",      "minute": 12 },
-                     { "name": "Aebischer", "minute": 45 },
-                     { "name": "Embolo",    "minute": 90, "offset": 3 }],
-          "group": "Group A"
-        },
-       ...
-      ],
-    },
-  ],  
-}     
+ "name": "Euro 2024",
+ "matches": [
+  {"round": "Matchday 1",
+    "date": "2024-06-14",
+    "time": "21:00",
+    "team1": "Germany",
+    "team2": "Scotland",
+    "score": {"ft": [5, 1], "ht": [3, 0]},
+    "goals1": 
+     [{"name": "Wirtz", "minute": 10},
+      {"name": "Musiala", "minute": 19},
+      {"name": "Havertz", "minute": 45, "offset": 1, "penalty": true},
+      {"name": "Füllkrug", "minute": 68},
+      {"name": "Can", "minute": 90, "offset": 3}],
+    "goals2": [{"name": "Rüdiger", "minute": 87, "owngoal": true}],
+    "group": "Group A",
+    "ground": "München"
+   },
+   {"round": "Matchday 1",
+    "date": "2024-06-15",
+    "time": "15:00",
+    "team1": "Hungary",
+    "team2": "Switzerland",
+    "score": {"ft": [1, 3], "ht": [0, 2]},
+    "goals1": [{"name": "Varga", "minute": 66}],
+    "goals2": 
+     [{"name": "Duah", "minute": 12},
+      {"name": "Aebischer", "minute": 45},
+      {"name": "Embolo", "minute": 90, "offset": 3}],
+    "group": "Group A",
+    "ground": "Köln"
+   },
+   ...
+   {"round": "Final",
+    "date": "2024-07-14",
+    "time": "21:00",
+    "team1": "Spain",
+    "team2": "England",
+    "score": {"ft": [2, 1], "ht": [0, 0]},
+    "goals1": 
+     [{"name": "Williams", "minute": 47}, {"name": "Oyarzabal", "minute": 86}],
+    "goals2": [{"name": "Palmer", "minute": 73}],
+    "ground": "Berlin"
+   }
+]}
 ```
 
 
